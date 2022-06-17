@@ -25,3 +25,4 @@ Se muestra el funcionamiento por etapas del sistema en los siguientes videos.
 
 - lectura_serial_una_fotocelda: https://youtu.be/u2LACJjgBOI
 - comparador_fotoceldas_con_puerto_serial: https://youtu.be/jsJxvF_rZl0
+- girasol en protoboard: https://youtu.be/xXiOrHjCTdw
